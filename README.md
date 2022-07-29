@@ -1,6 +1,29 @@
-<h1 font-family: Arial>Remote Person Computer</h1>
+<h1>Remote Personal Computer</h1>
 <p>An application allows user to remote control computer by sending email command</p>
 <hr>
+<h2>Contributors</h2>
+<table>
+    <tr>
+        <th>Student ID</th>
+        <th>Name</th>
+        <th>Account</th>
+    </tr>
+    <tr>
+        <td>20120607</td>
+        <td>Huu Trong Le</td>
+        <td>lhtrong</td>
+    </tr>
+    <tr>
+        <td>20120600</td>
+        <td>Minh Tri Le</td>
+        <td>lmtri-fit-hcmus </td>
+    </tr>
+    <tr>
+        <td>20120059</td>
+        <td>Ngoc Duc Le</td>
+        <td>lengocduc195khtn</td>
+    </tr>
+</table>
 <h2>Usages:</h2>
 <ul>
     <li>Screen Capture</li>
