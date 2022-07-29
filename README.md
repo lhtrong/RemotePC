@@ -1,4 +1,4 @@
-<h1>Remote Person Computer</h1>
+<h1 font-family: Arial>Remote Person Computer</h1>
 <p>An application allows user to remote control computer by sending email command</p>
 <hr>
 <h2>Usages:</h2>
@@ -12,7 +12,6 @@
     <li>Key Logging</li>
     <li>Restart or Shutdown</li>
 </ul>
-\
 <hr>
 <h2>Technologies used:</h2>
 <ul>
